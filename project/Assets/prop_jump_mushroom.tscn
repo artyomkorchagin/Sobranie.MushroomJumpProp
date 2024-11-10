@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Scenes/Map/Props/mushroom_bounce.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scenes/Entities/Props/prop.gd" type="Script" id=5]
+
+[node name="shroom" type="KinematicBody"]
+script = ExtResource( 5 )
+delete_on_owner_disconnect = true
+rotation_reset = true
+
+[node name="mushroom_1" parent="." instance=ExtResource( 1 )]

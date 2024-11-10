@@ -1,0 +1,13 @@
+{
+  "Id": "Sobranie.MushroomJumpProp",
+  "PackPath": "MushroomJumpProp.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "MushroomJumpProp",
+    "Author": "Sobranie",
+    "Version": "1.0.0",
+    "Description": "Adds a jump mushroom as a prop into your WEBFISHING!"
+  }
+}
