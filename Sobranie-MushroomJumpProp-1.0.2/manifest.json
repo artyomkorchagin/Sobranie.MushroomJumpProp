@@ -1,10 +1,10 @@
 {
     "name": "MushroomJumpProp",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/artyomkorchagin/Sobranie.MushroomJumpProp",
-    "description": "Placeable jump mushroom prop",
+    "description": "Placeable jump mushroom props",
     "dependencies": [
-        "Sulayre-Lure-4.1.0",
-        "NotNet-GDWeave-2.0.13"
+        "Sulayre-Lure-4.2.0",
+        "NotNet-GDWeave-2.0.14"
     ]
 }
